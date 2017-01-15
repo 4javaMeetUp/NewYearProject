@@ -1,4 +1,4 @@
-package ru.fedichkindenis;
+package ru.fedichkindenis.newyear;
 
 public class Main {
 
