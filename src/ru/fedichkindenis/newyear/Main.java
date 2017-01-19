@@ -2,8 +2,6 @@ package ru.fedichkindenis.newyear;
 
 import ru.fedichkindenis.newyear.toy.*;
 
-import java.math.BigDecimal;
-
 public class Main {
 
     public static void main(String[] args) {
