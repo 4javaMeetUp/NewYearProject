@@ -3,7 +3,7 @@ package ru.fedichkindenis.newyear.toy;
 import java.math.BigDecimal;
 
 public class FactoryToyBig implements FactoryToy {
-
+//qqq
     @Override
     public Toy createToy(String type) {
 
